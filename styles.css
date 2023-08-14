@@ -1,2 +1,4 @@
 /*  your css code here. If applicable */
-border : 1px solid black;
+.brdr{
+	border : 1px solid black;
+}
